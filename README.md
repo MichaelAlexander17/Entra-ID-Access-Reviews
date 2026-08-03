@@ -107,12 +107,6 @@ The **Results** view records each outcome, the recommended action, and *"Reviewe
 
 ---
 
-## Why This Is a Governance Project
-
-When an auditor asks *"how do you know everyone with access still needs it?"*, the access review **is** the answer. It converts access from something that only ever gets added into something that is continuously validated, documented, and enforced. This is the core of identity governance.
-
----
-
 ## Skills Demonstrated
 
 - Microsoft Entra ID Access Reviews (Identity Governance)
