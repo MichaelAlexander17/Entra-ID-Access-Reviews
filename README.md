@@ -63,7 +63,7 @@ Leon reviews each member and records a decision with justification:
 | Maya Torres | Approve | Confirmed still needed |
 | Lulu McAllister | **Deny** | Moved to Marketing, no longer needs financial system access |
 
-![Reviewer approve and deny decisions](03-review-decision.png)
+![Reviewer approve and deny decisions](03-review-decisions.png)
 
 ### 5. Auto-Apply Enforces the Outcome
 On completion, Lulu McAllister is automatically removed from the group. Ezra and Maya remain.
