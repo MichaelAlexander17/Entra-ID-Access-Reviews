@@ -105,4 +105,4 @@ The **Results** view records each outcome, the recommended action, and *"Reviewe
 | Decision helpers | Surface sign-in activity to inform (not dictate) the reviewer's decision |
 | Recurrence | Recurring reviews (quarterly here) provide continuous, not one-time, assurance |
 
-*Part of an Identity & Access Management / Identity Governance portfolio. All user names are fictional; tenant details redacted from screenshots.*
+*Part of an Identity & Access Management / Identity Governance portfolio. All user names are fictional
