@@ -105,15 +105,4 @@ The **Results** view records each outcome, the recommended action, and *"Reviewe
 | Decision helpers | Surface sign-in activity to inform (not dictate) the reviewer's decision |
 | Recurrence | Recurring reviews (quarterly here) provide continuous, not one-time, assurance |
 
----
-
-## Skills Demonstrated
-
-- Microsoft Entra ID Access Reviews (Identity Governance)
-- Separation-of-duties design (resource-owner-as-reviewer)
-- Auto-apply enforcement and lifecycle remediation
-- Audit trail and justification capture for compliance
-- Entra ID P2 licensing and role prerequisites for governance features
-- Applying human judgment over automated recommendations
-
 *Part of an Identity & Access Management / Identity Governance portfolio. All user names are fictional; tenant details redacted from screenshots.*
